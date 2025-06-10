@@ -1,5 +1,3 @@
-# 빅데이터 분석학회 BDA 기록
-
 ## 디렉토리 구조
 
 ### Basic Statistics/
