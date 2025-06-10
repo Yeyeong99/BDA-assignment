@@ -1,33 +1,34 @@
 ## 디렉토리 구조
-
-### Basic Statistics/
-통계적 추론과 가설 검정에 관한 실습 파일
-- 이항분포 (Binomial distribution)
-- 상관계수 분석 (Correlation coefficient)
-- 모비율 추정 (Population Ratio Estimation)
-- t-검정 (t-test)
-- 카이제곱 검정 (Chi-squared Test)
-- 자유도 (Degree of Freedom)
-- 사분위수 (Quartile)
-- scipy.stats 기초
-
-### DataFrame/
-pandas DataFrame을 다루는 방법에 대한 실습 파일
-- DataFrame 기초
-- DataFrame 조작 방법
-- 데이터 필터링과 정렬
-- 그룹화와 집계
-
-### Data Visualization/
-데이터 시각화에 관한 실습 파일
-- matplotlib과 seaborn을 활용한 기본적인 시각화
-- 다양한 차트 유형 (히스토그램, 산점도, 박스플롯 등)
-
-### Practice/
-학습한 내용을 실제로 적용해보는 실습 파일
-- 통계적 가설검정 실습
-- 추정 실습
-- 종합 실습
+```
+├── Basic Statistics/            # 통계적 추론과 가설 검정에 관한 실습 파일
+│   ├── Binomial distribution.ipynb             # 이항분포
+│   ├── correlation coefficient.ipynb           # 상관계수 분석
+│   ├── Correlation.ipynb                       # 상관관계 분석
+│   ├── Population Ratio Estimation.ipynb       # 모비율 추정
+│   ├── Population Ratio Estimation2.ipynb      # 모비율 추정 추가
+│   ├── t-test.ipynb                           # t-검정
+│   ├── Chi-squared Test.ipynb                 # 카이제곱 검정
+│   ├── Chi-squared Test&Degree of Freedom.ipynb # 카이제곱 검정과 자유도
+│   ├── Quartile.ipynb                         # 사분위수
+│   ├── scipy stats Basic.ipynb                # scipy.stats 기초
+│   ├── Estimation Basic.ipynb                 # 추정 기초
+│   └── statistical hypothesis test.pdf        # 통계적 가설검정 이론
+│
+├── DataFrame/                   # pandas DataFrame을 다루는 방법에 대한 실습 파일
+│   ├── Data_Frame_Basic.ipynb              # DataFrame 기초
+│   ├── DataFrame Handling.ipynb            # DataFrame 조작 방법
+│   ├── DataFrame Handling 2.ipynb          # DataFrame 조작 방법 심화
+│   └── DataFrame Handling 3.ipynb          # DataFrame 조작 방법 고급
+│
+├── Data Visualization/          # 데이터 시각화에 관한 실습 파일
+│   ├── Data Visualization Basic.ipynb      # matplotlib과 seaborn을 활용한 기본적인 시각화
+│   └── Data Visualization Basic2.ipynb     # 심화 데이터 시각화
+│
+└── Practice/                    # 학습한 내용을 실제로 적용해보는 실습 파일
+    ├── statistical hypothesis test practice.ipynb    # 통계적 가설검정 실습
+    ├── Estimation Practice.ipynb                     # 추정 실습
+    └── Practice.ipynb                               # 종합 실습
+```
 
 ## 1. 통계적 추정 (Statistical Estimation)
 
