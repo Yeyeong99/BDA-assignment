@@ -16,9 +16,9 @@
 │
 ├── DataFrame/                   # pandas DataFrame을 다루는 방법에 대한 실습 파일
 │   ├── Data_Frame_Basic.ipynb              # DataFrame 기초
-│   ├── DataFrame Handling.ipynb            # DataFrame 조작 방법
-│   ├── DataFrame Handling 2.ipynb          # DataFrame 조작 방법 심화
-│   └── DataFrame Handling 3.ipynb          # DataFrame 조작 방법 고급
+│   ├── DataFrame Handling.ipynb            # DataFrame 조작 방법 1
+│   ├── DataFrame Handling 2.ipynb          # DataFrame 조작 방법 2
+│   └── DataFrame Handling 3.ipynb          # DataFrame 조작 방법 3
 │
 ├── Data Visualization/          # 데이터 시각화에 관한 실습 파일
 │   ├── Data Visualization Basic.ipynb      # matplotlib과 seaborn을 활용한 기본적인 시각화
